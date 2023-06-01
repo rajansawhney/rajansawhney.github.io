@@ -1,0 +1,149 @@
+{
+  "basics": {
+    "name": "Rajan Sawhney",
+    "label": "",
+    "picture": "https://github.com/rajansawhney.png",
+    "email": "rajanksawhney@gmail.com",
+    "phone": "5419544110",
+    "website": "https://rajansawhney.github.io",
+    "summary": "I am a practising Software and Machine Learning Engineer with multiple years of experience developing algorithmic and analystical solutions for a diverse field of expertise such as: seminconductor manufacturing, scientific simulation, education and mining.",
+    "location": { "city": "Eugene", "countryCode": "USA", "region": "Oregon" },
+    "profiles": [
+      { "network": "github", "username": "rajansawhney", "url": "http://github.com/rajansawhney" },
+      { "network": "linkedin", "username": "sawhneyrajan", "url": "http://linkedin.com/in/sawhneyrajan" }
+    ]
+  },
+  "interests": [
+    { "name": "Climate Change" },
+    { "name": "Bioinformatics" },
+    { "name": "Ecology" },
+    { "name": "Machine Learning" },
+    { "name": "Software Engineering" }
+  ],
+
+  "education": [
+    {
+      "institution": "University of Oregon, Eugene, OR, USA",
+      "area": "Computer Science",
+      "studyType": "M.S.",
+      "endDate": "2017-06-01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Pune, Pune, MH, India",
+      "area": "Information Technology",
+      "studyType": "B.E.",
+      "endDate": "2013-05-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+
+  "work": [
+    {
+      "company": "Intel",
+      "position": "Software and Machine Learning Engineer",
+      "website": "https://intel.com",
+      "startDate": "2021-12-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Built accessbile machine platforms for semiconductor manufacturing",
+        "Conducted classification analysis to detect seminconductir manufacturing defects post thermo-compression bonding",
+        "Co-authored paper accepted in the 2020 Advanced Process Control Smart Manufacturing Conference"
+      ]
+    },
+    {
+      "company": "CBT Nuggets",
+      "position": "Software Engineer and Data Analyst",
+      "website": "https://cbtnuggets.com",
+      "startDate": "2018-02-01",
+      "endDate": "2021-11-01",
+      "summary": "",
+      "highlights": [
+        "Built innovative educational software and hardware products",
+        "Estimated customer retention",
+        "Predited future demand of educational products",
+        "Revenue forecasting"
+      ]
+    },
+    {
+      "company": "High-Performnce Computing Laboratory",
+      "position": "Gradaute Research Fellow",
+      "website": "https://hpcl.cs.uoregon.edu/",
+      "startDate": "2016-05-01",
+      "endDate": "2017-03-01",
+      "summary": "",
+      "highlights": [
+        "Performance optimization of large-scale physics-based simlation on National Energy Research Scientific Computing Center's Edison supercomputer"]
+    },
+    {
+      "company": "Accenture",
+      "position": "Associate Software Engineer",
+      "startDate": "2013-10-01",
+      "endDate": "2014-12-01",
+      "summary": "",
+      "highlights": [
+        "Built software tools for acturaies assesing the risk of extracting natural resources"
+      ]
+    }
+  ],
+
+  
+  "awards": [
+    {
+      "type": "award",
+      "title": "Result Driven Award",
+      "date": "Nov. 2022",
+      "awarder": "Intel, Technology Development",
+      "summary": ""
+    },
+    {
+      "type": "award",
+      "title": "Fearless Innovation Award",
+      "date": "Sep. 2022",
+      "awarder": "Intel, AI Everywhere Conference",
+      "summary": ""
+    },
+    {
+      "type": "award",
+      "title": "Division Recognition Award",
+      "date": "Aug. 2022",
+      "awarder": "Intel",
+      "summary": ""
+    },
+    {
+      "type": "award",
+      "title": "First Prize – Hack for a Cause",
+      "date": "Mar. 2018",
+      "awarder": "Technology Assocaition of Oregon",
+      "summary": ""
+    },
+    {
+      "type": "award",
+      "title": "Graduate Research Fellowship",
+      "date": "Jun. 2016 - Mar. 2017",
+      "awarder": "University of Oregon",
+      "summary": ""
+    },
+    {
+      "type": "award",
+      "title": "Graduate Teaching Fellowship",
+      "date": "Mar. 2016 - Jun. 2016",
+      "awarder": "University of Oregon",
+      "summary": ""
+    }
+  ],
+
+  "publications": [
+    {
+      "name": "IMLA – A machine learning platform to democratize ML modeling in ML-APC",
+      "type": "conference",
+      "author": "Duo Zhang, Runshen Xu, Rajan Sawhney, Ali Ahmadi,Gobind Bisht, Paul Sheehy, Erman Bengu",
+      "publisher": "Advanced Process Control Smart Manufacturing",
+      "releaseDate": "Oct. 2022",
+      "summary": ""
+    }
+  ]
+}
