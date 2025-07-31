@@ -1,24 +1,34 @@
 # - title: "About"
 #   href: "/about/"
 
-- title: "Research"
-  href: "/research/"
+- title: "Publications"
+  href: "/publications/"
 
-- title: "Projects"
-  href: "/projects/"
+# - title: "Presentations"
+#   href: "/presentations/"
 
-- title: "Blog"
-  href: "/blog/"
+# - title: "Experience"
+#   href: "/experience/"
 
-- title: "CV"
-  href: "/cv/"
+# - title: "Projects" # TODO: 
+#   href: "/projects/"
 
-- title: "TBD"
-  href: "/miscellany/"
-  subcategories:
-    - subtitle: "Courses Undertaken"
-      subhref: "/miscellany/courses/"
-    - subtitle: "Extracurriculars"
-      subhref: "/miscellany/extracurricular/"
-    - subtitle: "Travel"
-      subhref: "/miscellany/travel/"
+# - title: "Community Service"
+#   href: "/service/"
+
+
+# - title: "Blog"
+#   href: "/blog/"
+
+# - title: "CV"
+#   href: "/cv/"
+
+# - title: "TBD"
+#   href: "/miscellany/"
+#   subcategories:
+#     - subtitle: "Courses Undertaken"
+#       subhref: "/miscellany/courses/"
+#     - subtitle: "Extracurriculars"
+#       subhref: "/miscellany/extracurricular/"
+#     - subtitle: "Travel"
+#       subhref: "/miscellany/travel/"

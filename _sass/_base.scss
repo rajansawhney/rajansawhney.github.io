@@ -184,6 +184,44 @@ pre {
 }
 
 
+/** 
+ * Headshot image
+ */
+.headshot-img {
+  width: 300px;
+  float: right;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+
+  img {
+    width: 100%;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  }
+
+  @media (max-width: 768px) {
+    float: none;
+    display: block;
+    margin: 0 auto 20px auto; // center image on mobile
+    width: 100%; // or 100% if you prefer full width
+    max-width: 300px;
+  }
+}
+
+//  .pub-image {
+//     width: 150px;
+//     padding-right: 20px;
+
+//     img {
+//       width: 100%;
+//       border: 1px solid #ddd;
+//       border-radius: 6px;
+//       box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+//     }
+//   }
 
 /**
  * Icons
@@ -206,7 +244,7 @@ pre {
  * Color button 
  */
 .color-button {
-    background: $blue-color-dark;
+    background: #0077CC;
     border-style: none;
     border-radius: 10px;
     color: white;
@@ -219,17 +257,56 @@ pre {
     text-decoration: none;
 
     &:hover {
-        background: $blue-color-light;
+        background: #dcdada;
     }
 }
 
 a.tosu {
-color: #b00000;
-background: #f5f5f5;
-text-decoration: none;
- padding: 2px; 
- font-weight: 600; 
-font-family: 'Capita', Georgia, serif;
+    color: #b00000;
+    background: #f5f5f5;
+    text-decoration: none;
+    padding: 2px; 
+    font-weight: 600; 
+    font-family: 'Capita', Georgia, serif;
+}
+
+/**
+ * Publication 
+ */
+
+.pub-table {
+  width: 100%;
+  border-spacing: 20px; /* uniform gap between tds */
+  margin-bottom: 2rem;
+
+  td {
+    vertical-align: top;
+  }
+
+  .pub-image {
+    width: 150px;
+    padding-right: 20px;
+
+    img {
+      width: 100%;
+      border: 1px solid #ddd;
+      border-radius: 6px;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    }
+  }
+
+  .pub-details {
+    width: auto;
+    padding-right: 20px;
+  }
+
+  .pub-year {
+    width: 60px;
+    text-align: right;
+    color: #ccc;
+    font-size: 1.5em;
+    white-space: nowrap;
+  }
 }
 
 

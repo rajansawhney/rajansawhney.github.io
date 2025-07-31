@@ -4,16 +4,15 @@ title: Rajan Sawhney
 academic_email: rsawhney [at] hawaii [dot] edu
 
 description: > # this means to ignore newlines until "baseurl:"
-  Give a brief description of yourself, and maybe your passion/interests. It is displayed in search results.
+  Ph.D. at UH Mānoa
 
-baseurl: "/academic-portfolio" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 
 url: "https://rajansawhney.github.io" # the base hostname & protocol for your site
 
-# twitter_username: jekyllrb
 github_username: rajansawhney
-# linkedin_username: sawhney_rajan
-# feel free to add other links here; you will have to add the SVG icon in _layouts/footer.html
+scholar_username: aAAHoMwAAAAJ
+linkedin_username: sawhneyrajan
 
 # Build settings
 markdown: kramdown
