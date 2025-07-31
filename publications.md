@@ -4,9 +4,10 @@ permalink: /publications/
 title: Publications
 ---
 
-<h2>Publications</h2>
+<!-- <h2>Publications</h2> -->
 
 Complete list on <a href="https://scholar.google.com/citations?hl=en&user=aAAHoMwAAAAJ">Scholar</a>
+<br><br>
 
 <hr>
 
