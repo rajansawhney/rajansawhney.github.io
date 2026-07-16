@@ -23,6 +23,7 @@ Complete list on <a href="https://scholar.google.com/citations?hl=en&user=aAAHoM
       <u>Rajan Sawhney</u>, Barbra Ferrell, Thibaut Dejean, Zachary Schreiber, William Harrigan, Shawn W Polson, K Eric Wommack, Mahdi Belcaid<br>
       <i>in press</i>, 2025<br><br>
       <a class="color-button" href="https://peerj.com/articles/19919/" target="_blank">PEERJ</a>
+      <a class="color-button" href="https://www.youtube.com/watch?v=322F0SfWJIM" target="_blank">VIDEO</a>
       <a class="color-button" href="https://github.com/Hawaii-Bioinformatics/ViralFineTuning" target="_blank">CODE</a>
       <!-- <a class="color-button" href="/papers/viral_fine_tuning_2025.pdf" target="_blank">PDF</a> -->
       <a class="color-button" href="/papers/viral-fine-tuning-2025.bib" target="_blank">BIB</a>
